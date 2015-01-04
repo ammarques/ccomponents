@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/amarques/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/amarques/Demo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-ca74ccbe02a5c59ce5a3e0f48fdf43c1558b3db1.jar" />
+    </item>
+    <item
+        jar="/Users/amarques/Demo/app/build/intermediates/exploded-aar/Demo/components/unspecified/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="1f00225c3e356019c5ae67fef747917a830bf597">
+        <dex dex="/Users/amarques/Demo/app/build/intermediates/pre-dexed/debug/classes-cb4062312043e1b537fe5b92aba5b76e3e874cd1.jar" />
+    </item>
+    <item
+        jar="/Users/amarques/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.4.0/f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/amarques/Demo/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-cfa8568936dabfc1fe450e74c61baf980d877979.jar" />
+    </item>
+    <item
+        jar="/Applications/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/amarques/Demo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-b6df98d4794085161863af40b8f48b305692e751.jar" />
+    </item>
+    <item
+        jar="/Users/amarques/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/amarques/Demo/app/build/intermediates/pre-dexed/debug/classes-2831a733dcbc1b87cdd0a4561b5de00d0dfb9b48.jar" />
+    </item>
+    <item
+        jar="/Users/amarques/Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.0.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/amarques/Demo/app/build/intermediates/pre-dexed/debug/classes-0be35486a3a59e0e0bfd81358dd4d73cd23c2fb3.jar" />
+    </item>
+
+</items>

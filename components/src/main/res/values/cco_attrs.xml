@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="Image">
+        <attr name="img_url" format="string" />
+        <attr name="img_local" format="boolean" />
+        <attr name="img_placeholder" format="reference" />
+    </declare-styleable>
+
+</resources>
